@@ -2,6 +2,7 @@ Hello. Hello.
 How are you? 
 Hello. Hello. 
 Was nice to see you!
+<<<<<<< HEAD
 
 
 hello Hello. 
@@ -9,3 +10,7 @@ Hiw do you do?
 Hello Hello! 
 Happy to see you!
 ----------------------------
+=======
+Hello. Hello. 
+How do you do?
+>>>>>>> 7662f748004e5575632236fd1f85d3d649ca6fef
