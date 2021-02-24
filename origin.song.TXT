@@ -12,3 +12,5 @@ I say Hello!
 To you and all your friends!
 You say hello 
 to me and all my friends!
+
+for tag only
